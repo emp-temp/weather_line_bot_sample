@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
+	"github.com/emp-temp/weather_line_bot_sample_emp/weather"
 	"github.com/line/line-bot-sdk-go/linebot"
-	"github.com/yuki0920/weather_line_bot_sample/weather"
 )
 
 func main() {
